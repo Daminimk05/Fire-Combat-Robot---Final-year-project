@@ -86,7 +86,10 @@ To design and develop a fire combat robot capable of autonomously detecting fire
 ![Circuit Diagram](images/circuit_diagram.png)
 
 ### Robot Prototype
-![Fire Combat Robot](images/robot.jpg)
+![Fire Combat Robot](images/robot_setup1.jpg)
+
+
+![Fire Combat Robot](images/robot_setup2.jpg)
 
 ---
 
